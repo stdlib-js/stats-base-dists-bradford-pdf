@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-10)
+## Unreleased (2025-05-03)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`379390a`](https://github.com/stdlib-js/stdlib/commit/379390a688ef3f94fb7a2dfdfbfbd940bd1cb28a) - **docs:** replace manual `for` loop in examples [(#6907)](https://github.com/stdlib-js/stdlib/pull/6907) _(by Harsh)_
 -   [`2bd92b9`](https://github.com/stdlib-js/stdlib/commit/2bd92b9ec557e1e5504abbdfe5d08f03966514b2) - **docs(bradford):** update readme to fix typo [(#5929)](https://github.com/stdlib-js/stdlib/pull/5929) _(by Haroon Rasheed)_
 -   [`1949944`](https://github.com/stdlib-js/stdlib/commit/19499442b3eeaa0ad9efc5b91a76538dcc45a18d) - **feat:** add `stats/base/dists/bradford/pdf` [(#5280)](https://github.com/stdlib-js/stdlib/pull/5280) _(by Karan Anand)_
 
@@ -47,9 +48,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Haroon Rasheed
+-   Harsh
 -   Karan Anand
 
 </section>
