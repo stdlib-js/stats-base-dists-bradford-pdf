@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-25)
+## Unreleased (2025-07-06)
 
 <section class="features">
 
@@ -35,6 +35,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a416e9d`](https://github.com/stdlib-js/stdlib/commit/a416e9dff64dd522608a026d5951418d06a82356) - **chore:** clean-up _(by Athan Reines)_
 -   [`306a302`](https://github.com/stdlib-js/stdlib/commit/306a30294e921def55ac3614e651aff95bd339d4) - **feat:** add C implementation for `stats/base/dists/bradford/pdf` _(by Philipp Burckhardt)_
 -   [`a594d58`](https://github.com/stdlib-js/stdlib/commit/a594d58d530900e5f90dab88494520c09f01ee35) - **chore:** adds `opts` [(#6909)](https://github.com/stdlib-js/stdlib/pull/6909) _(by Harsh)_
 -   [`379390a`](https://github.com/stdlib-js/stdlib/commit/379390a688ef3f94fb7a2dfdfbfbd940bd1cb28a) - **docs:** replace manual `for` loop in examples [(#6907)](https://github.com/stdlib-js/stdlib/pull/6907) _(by Harsh)_
@@ -51,8 +52,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Haroon Rasheed
 -   Harsh
 -   Karan Anand
